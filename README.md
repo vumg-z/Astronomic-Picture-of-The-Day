@@ -1,4 +1,4 @@
-# Space Xplorer
+# Astronomic picture of the day
 
 React application to explore the wonders of space and learn information about how NASA gathers data through interactive layers.
 
