@@ -45,7 +45,10 @@
 
   .cloud{
     width: 50%;
+  }
 
+  section .newsContainer{
+    height: initial;
   }
 }
 
