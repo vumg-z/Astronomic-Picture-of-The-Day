@@ -1,0 +1,30 @@
+.ship {
+  position: relative;
+  animation: moveX 1.2s infinite alternate;
+}
+
+.cloud{
+  animation: moveY 2s infinite ease-out;
+}
+
+// animation
+
+@keyframes moveX {
+  from {
+    transform: translateX(5em);
+  }
+  to {
+    transform: translateX(-5em);
+  }
+}
+
+@keyframes moveY {
+  from {
+    opacity: 1;
+    transform: translateY(0em);
+  }
+  to {
+    opacity: 0;
+    transform: translateY(20em);
+  }
+}
