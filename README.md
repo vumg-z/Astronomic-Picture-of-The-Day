@@ -2,7 +2,7 @@
 
 React application to explore the wonders of space and learn information about how NASA gathers data through interactive layers.
 
-[Demo live](nasa-apod-vumg)
+[Demo live](https://nasa-apod-vumg.herokuapp.com/)
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
