@@ -48,7 +48,7 @@
   }
 
   section .newsContainer{
-    height: initial;
+    height: unset !important;
   }
 }
 
