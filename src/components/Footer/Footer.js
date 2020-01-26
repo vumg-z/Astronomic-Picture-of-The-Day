@@ -146,7 +146,7 @@ function Footer() {
             .
           </p>
           <p>
-            Re-utilized components from{" "}
+            Inspired by {" "}
             <a
               href="http://www.abwtechnologies.com/"
               target="_blank"
